@@ -13,6 +13,11 @@ O código está estruturado em algumas funções que possuem regras de negócios
 
 As bibliotecas usadas no desenvolvimento desse script são amplamente utilizadas na análise e ciência de dados, utilizando python: 
 
-  - os
-  - pandas
-  - plotly
+  - [os](https://docs.python.org/3/library/os.html)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Plotly](https://plotly.com/python/)
+
+# Autor
+Rogerio Vidal de Siqueira
+
+<a href="https://www.linkedin.com/in/rogerio-vidal-de-siqueira-9478aa136/" target="_blank" rel="noopener noreferrer">Meu Linkdin</a>
